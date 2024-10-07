@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inatiomo.github.io/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/app/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/assets/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/css/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/data/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/includes/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/item/sitemap.html.gz
+Sitemap: https://inatiomo.github.io/src/sitemap.html.gz
